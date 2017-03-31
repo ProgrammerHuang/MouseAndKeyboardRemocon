@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mouse and Keyboard</string>
+    <string name="action_settings">Setup</string>
+    <string name="action_connect">Connect</string>
+    <string name="title_activity_setup">Setup</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="keyboard">Keyboard</string>
+    <string name="scroll_up">Scroll up</string>
+    <string name="scroll_down">Scroll down</string>
+    <string name="back">Back</string>
+    <string name="forward">Forward</string>
+    <string name="banner_ad_unit_id_test">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3585874136794843/9645395014</string>
+</resources>
